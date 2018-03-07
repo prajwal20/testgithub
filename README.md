@@ -1,2 +1,3 @@
 # testgithub
-testing out git
+testing out git with vim
+
